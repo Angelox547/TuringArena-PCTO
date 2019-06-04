@@ -1,0 +1,7 @@
+function type(side1, side2, side3);
+
+main {
+    read side1, side2, side3;
+    call index = type(side1, side2, side3);
+    write index;
+}
