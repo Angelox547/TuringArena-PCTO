@@ -1,0 +1,7 @@
+function data(d, m, y);
+
+main {
+    read d, m, y;
+    call n = data(d, m, y);
+    write n;
+}

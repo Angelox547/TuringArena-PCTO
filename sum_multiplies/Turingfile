@@ -1,0 +1,12 @@
+[problem]
+
+title = "Sum of multiplies of the number"
+
+
+
+
+[scoring]
+
+goals = ["correct"]
+
+

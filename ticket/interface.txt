@@ -1,0 +1,7 @@
+function cost(n, b, k, m);
+
+main {
+    read n, b, k, m;
+    call c = cost(n, b, k, m);
+    write c;
+}

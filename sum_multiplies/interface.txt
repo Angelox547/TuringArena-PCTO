@@ -1,0 +1,7 @@
+function sum_mult(n);
+
+main {
+    read n;
+    call s = sum_mult(n);
+    write s;
+}

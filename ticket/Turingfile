@@ -1,0 +1,12 @@
+[problem]
+
+title = "Ticket"
+
+
+
+
+[scoring]
+
+goals = ["correct"]
+
+

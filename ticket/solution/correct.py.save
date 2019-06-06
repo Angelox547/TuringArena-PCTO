@@ -1,0 +1,16 @@
+def cost(n, b, k, m):
+    viaggi = n
+    singolo = b
+    blocco = k
+    c_blocco = m
+    try:
+        while viaggi >= 0:
+            if blocco * sigolo >= c_blocco and n >= k:
+                c += m
+                n = n - k
+            else:
+                c += b
+                n = n - 1
+        return c
+    except:
+        return 0

@@ -1,0 +1,5 @@
+[problem]
+title = "n_primo"
+
+[scoring]
+goals = ["correct"]

@@ -1,0 +1,7 @@
+function primo(a);
+
+main {
+    read a;
+    call n = primo(a);
+    write n;
+}
